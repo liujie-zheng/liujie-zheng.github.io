@@ -27,4 +27,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-I'm a senior undergraduate student at [University of North Carolina at Chapel hill]{https://www.unc.edu/}, majoring in Computer Science. I'm working at [UNC Graphics & Virtual Reality Group]{https://telepresence.web.unc.edu/} led by [Dr. Henry Fuchs]{https://henryfuchs.web.unc.edu/} on the [Desktop Telepresence]{https://mcmvmc.github.io/PersonalTelepresence/} project. 
+I'm a senior undergraduate student at [University of North Carolina at Chapel hill](https://www.unc.edu/), majoring in Computer Science. I'm working at [UNC Graphics & Virtual Reality Group](https://telepresence.web.unc.edu/) led by [Dr. Henry Fuchs](https://henryfuchs.web.unc.edu/) on the [Desktop Telepresence](https://mcmvmc.github.io/PersonalTelepresence/) project.
