@@ -29,6 +29,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I'm a senior undergraduate student at [University of North Carolina at Chapel Hill](https://www.unc.edu/), majoring in Computer Science.  My interest lies in 3D computer vision, especially in neural rendering and 3D generative models
 
-I'm working at [UNC Graphics & Virtual Reality Group](https://telepresence.web.unc.edu/) led by [Dr. Henry Fuchs](https://henryfuchs.web.unc.edu/) on the [Desktop Telepresence](https://mcmvmc.github.io/PersonalTelepresence/) project. 
+I'm working at [UNC Graphics & Virtual Reality Group](https://telepresence.web.unc.edu/) led by [Dr. Henry Fuchs](https://henryfuchs.web.unc.edu/) on the [Desktop Telepresence](https://mcmvmc.github.io/PersonalTelepresence/) project. I also worked with [Dr. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/) on audio-visual learning and acoustics modeling.
 
-My name is pronounced as /ljəʊdʒɪe/.
+My name is pronounced as "lyoh-jee".
