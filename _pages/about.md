@@ -31,4 +31,4 @@ I'm a senior undergraduate student at [University of North Carolina at Chapel Hi
 
 I'm working at [UNC Graphics & Virtual Reality Group](https://telepresence.web.unc.edu/) led by [Dr. Henry Fuchs](https://henryfuchs.web.unc.edu/) on the [Desktop Telepresence](https://mcmvmc.github.io/PersonalTelepresence/) project. I also worked with [Dr. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/) on audio-visual learning and acoustics modeling.
 
-My name is pronounced as "lyoh-jee".
+My first name is pronounced as "lyoh-jee".
